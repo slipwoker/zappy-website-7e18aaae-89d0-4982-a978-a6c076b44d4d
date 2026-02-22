@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+גלו את קסם הטבע הפראי בטיולי ג'יפים מרהיבים. הרפתקאות מותאמות אישית, נופים עוצרי נשימה ומדריכים מקצועיים. הזמינו עכשיו את החוויה שלכם!
+
+### צור קשר
+https://example.com/צור-קשר
+מעוניינים בטיול ג'יפים בלתי נשכח? צרו קשר עכשיו לייעוץ חינם, התאמה אישית והזמנת מקומות. הצוות שלנו זמין לכל שאלה ובקשה מיוחדת.
+
+### אודות
+https://example.com/אודות
+למדו על הניסיון, המומחיות והתשוקה שלנו לטבע. שנים של הדרכה מקצועית, מאות טיולים מוצלחים ומחויבות לחוויה בטוחה ומרגשת לכל משתתף.
+
+### טיולי ג'יפים קסם הטבע
+https://example.com/טיולי-גיפים-נחל-כנף-ושמורת-הבטיחה
+טיול ג'יפים מרהיב לנחל כנף ושמורת הבטיחה. חוו נופי גולן עוצרי נשימה, חיות בר ונקודות תצפית ייחודיות. מתאים לכל המשפחה. הרשמו היום!
+
+### גלריה
+https://example.com/גלריה
+גלריית תמונות מרהיבה מטיולי הג'יפים שלנו. נופים פראיים, רגעי שיא והחוויות הבלתי נשכחות של המטיילים. התרשמו וקבלו השראה לטיול הבא!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
